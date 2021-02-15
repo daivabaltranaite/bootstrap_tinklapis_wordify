@@ -1,0 +1,54 @@
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+    background-image: url(./paveikslėliai/bg1.png);
+}
+
+.iconele {
+    color: grey;
+    margin: 0 10px;
+}
+
+.iconeles {
+    margin-left: 30px;
+}
+
+.fonas {
+    background-color: white;
+}
+
+.seselis {
+    -webkit-box-shadow: 5px 5px 38px -10px rgba(0, 0, 0, 0.88);
+    box-shadow: 5px 5px 38px -10px rgba(0, 0, 0, 0.88);
+    padding-bottom: 5px;
+    background-color: white;
+}
+
+.pavadinimas {
+    margin-bottom: 70px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.antraste {
+    letter-spacing: 2px;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.mygtuku-fonas {
+    background-color: lightgray;
+    margin: -16px;
+    margin-top: 16px;
+    padding: 16px;
+}
+
+.card-text {
+    font-size: 22px;
+}
+
+.row {
+    margin-bottom: 20px;
+}
